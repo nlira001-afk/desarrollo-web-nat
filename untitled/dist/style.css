@@ -1,0 +1,35 @@
+body{
+  font-family: Arial, sans-serif;
+  text-align:center;
+  margin:20px;
+}
+
+button{
+ margin:10px;
+  pagging:8px 12px;
+  border-radius: 10px;
+  background: pink;
+}
+button:hover{
+  background:#F0298F
+    ;
+}
+
+.contenedor{
+  display:flex;
+  justify-content:center;
+  margin:20px 0px;
+  gap:10 px;
+}
+
+.caja{
+  width:80px;
+height:80px;
+background:#FFD1FF;
+display:flex;
+  justify-content:center;
+  align-items:center;
+  border:5px solid #F011FO;
+    border-radius:10px;
+  
+}
